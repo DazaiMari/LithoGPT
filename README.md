@@ -51,8 +51,3 @@ stone-insight/
 ├── assets/             # 示例图像与演示数据
 ├── README.md
 └── requirements.txt
-
-
-
-
-
