@@ -24,20 +24,6 @@
 | Vue.js | Python (Flask/FastAPI) | OpenAI API (图像识别 + GPT 生成) | 
 
 ---
-
-## 项目结构 | Project Structure
-
-```
-stone-insight/
-├── frontend/           # Vue 前端代码
-├── backend/            # Python 后端服务
-│   ├── api/            # 图像上传与转发模块
-│   └── openai_client/  # AI接口调用与处理
-├── assets/             # 示例图像与演示数据
-├── README.md
-└── requirements.txt
-
-
 ## 示例展示 | Example Output
 
 > 上传图片：一块图案奇特的太湖石
@@ -54,5 +40,19 @@ stone-insight/
 * [ ] 用户登录与数据同步
 * [ ] 离线模式与本地模型集成
 * [ ] 收藏品社区与交流板块
+## 项目结构 | Project Structure
+
+```
+stone-insight/
+├── frontend/           # Vue 前端代码
+├── backend/            # Python 后端服务
+│   ├── api/            # 图像上传与转发模块
+│   └── openai_client/  # AI接口调用与处理
+├── assets/             # 示例图像与演示数据
+├── README.md
+└── requirements.txt
+
+
+
 
 
